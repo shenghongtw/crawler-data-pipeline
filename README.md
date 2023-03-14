@@ -5,10 +5,10 @@ Airflow + selenium crwaling vocus post and sending daily to my Slack.
 
 ## Set up
 
-TODO: 
-1.download docker
+TODO: 1.download docker
 2.set up slack token in"\data\vocus_crawler\credentials"
 3.run command "docker compose -f dockercompose.yml up" on this folder
+
 
 
 
