@@ -1,0 +1,6 @@
+apache-airflow[crypto,celery,postgres,jdbc,ssh,slack]==1.10.10
+MarkupSafe==2.0.1
+wtforms==2.3.3
+SQLAlchemy==1.3.23
+beautifulsoup4==4.11.1
+selenium==3.141.0
