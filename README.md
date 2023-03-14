@@ -1,6 +1,6 @@
 # slack-airflow-selenium
 
-Airflow + selenium crwaling vocus post and sending daily post to my Slack.
+Airflow + selenium crwaling post and sending daily post to my Slack.
 
 
 ## Set up
