@@ -1,13 +1,16 @@
-# slack-airflow
+# slack-airflow-selenium
 
-**Accompanying Medium Article:** [Integrating Airflow with Slack for Daily Reporting](https://medium.com/@mandygu/integrating-docker-airflow-with-slack-to-get-daily-reporting-c462e7c8828a)
-
-Simple Airflow + Slack integration for sending daily weather forecasts to my Slack workspace.
+Airflow + selenium crwaling vocus post and sending daily to my Slack.
 
 
-## Set up instructions
+## Set up
 
-TODO: start up script to echo these secrets into an env file and run the docker commands with the env file
+TODO: 
+1.download docker
+2.set up slack token in"\data\vocus_crawler\credentials"
+3.run command "docker compose -f dockercompose.yml up" on this folder
+
+
 
 Specify these secrets in the `Dockerfile`:
 
