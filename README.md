@@ -1,4 +1,4 @@
-# slack-airflow-selenium
+# crawler data pipeline
 
 Airflow + selenium crwaling vocus post and sending daily post to my Slack.
 
